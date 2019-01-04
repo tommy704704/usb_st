@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UsbDll" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>usbdll.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="usbDetection" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAEAAAAABAAAgAAAAIAIAAAgBAAAAAAAAAAAAAJAA=</HashCode>
+      <FileName>usbdetection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_usbDetectionClass" Collapsed="true">
+    <Position X="3" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAYAAAAIAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_usbdetection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::usbDetectionClass" Collapsed="true">
+    <Position X="3" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_usbdetection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="qt_meta_stringdata_usbDetection_t" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Release\moc_usbdetection.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
